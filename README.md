@@ -1,0 +1,2 @@
+# TheCubeStay
+Site of Hotel
